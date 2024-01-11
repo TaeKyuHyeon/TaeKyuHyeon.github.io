@@ -1,2 +1,2 @@
 # TaeKyuHyeon.github.io
-pages.oss build page
+pages.github build page
